@@ -1,0 +1,41 @@
+{
+ "code": "M485B",
+ "connector": "RTO-144",
+ "type": "M485B 25V power Supply",
+ "series": null,
+ "contacts": "7 contacts, 2 contacts (J8)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "2",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/POWER/M485B/SCHEMATICS/1978 - M485B - 1-117-06-001 - ADOEO KTI.jpg",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "OPERATED FROM THE OUTPUT OF 22",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/POWER/M485B/MANUALS/1982 - M485B - 25V power Supply.pdf",
+   "page": 5
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M485B/M485B.rto144.json",
+  "Modules/POWER/M485B/MANUALS/1982 - M485B - 25V power Supply.pdf",
+  "Modules/POWER/M485B/SCHEMATICS/1978 - M485B - 1-117-06-001 - ADOEO KTI.jpg"
+ ]
+}
