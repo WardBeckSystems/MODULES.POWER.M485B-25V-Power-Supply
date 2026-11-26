@@ -22,7 +22,7 @@ Wiki page: [M485B](../../../../PAGES/M485B.md)
 - **Words (OCR):** 78 in 40 lines: WARD-BECK SYSTeMS LTD. · TABL · OF CONTE NT · M48SB · 2S · POWER SUPPLY · SECT ION · PAGE · Tecl'ln lca Da · Circ it Dcscr lpt ion · Parl ll · lli
 - **Title block:** (14, 37)–(266, 418) mm: WARD-BECK SYSTeMS LTD. · TABL · OF CONTE NT · M48SB · 2S · POWER SUPPLY · SECT ION · PAGE · Tecl'ln lca Da · Circ it Dcscr lpt ion · Parl ll · lli · Appe nd · 1_1 · Ci rc li Dc scr lp tlon · 117_1_ 10
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p1 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p1%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p1 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p1%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p1 (trac
 - **Circles and arcs:** 4 circles, 0 arcs; largest r 2.1 @ (45.6, 329.7), r 2.1 @ (121.3, 217.6), r 2.1 @ (121.2, 211.1), r 1.6 @ (124.5, 131.8)
 - **Words (OCR):** 156 in 76 lines: WARO-SECK SYSTEMS LTO. · TI:. CHNI CAL DATA · M46SB · 25 · PO WER SUP PLY · 25 vol IS at loa Cu n-eoi · rom · to · DC OutPU · mpe res. · ine Re ul elion: · line
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p2 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p2%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p2 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p2%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p2 (traced).dxf`).
 
 ### Page 3
 
@@ -43,7 +43,7 @@ Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p2 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 142 in 71 lines: WARC·SECK SYSTEMS LTC · CI RCUIT DESCRI PT ION · M48 SB · 25 · POWER SUPPLY · Th · 58 ill · 25 · olt de · we · upply · el iver ng cu r-ent
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p3 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p3%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p3 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p3 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p3%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p3 (traced).dxf`).
 
 ### Page 4
 
@@ -54,7 +54,7 @@ Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p3 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 80 in 51 lines: WARO·SECl< SYSTEMS LTO. · PART · ST · M48 S6 · 25 · POWEA SUPP LY · PA Fl · DESCFlI PTIO · Fe · FG PAFlT NUM6 EFl · cr · Cilpilcil or
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p4 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p4%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p4 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p4 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p4%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p4 (traced).dxf`).
 
 ### Page 5
 
@@ -66,7 +66,7 @@ Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p4 (trac
 - **Words (OCR):** 412 in 165 lines: WARD -BECK YSTEM LTD. · CIRC UIT DESCRIPTION · 1_11 REGU LA TOR BOARD · The · 117 Reg ulalor Is · prl r>ted ci l'"t;.ui board un ll · use · In · was ow Cl<" Suppl ies an conra · number- · Ii'll' ma jorit of lhe ileliv · c1 rc ultry of
 - **Title block:** (12, 397)–(76, 420) mm: WARD -BECK YSTEM LTD.
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p5 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p5%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p5 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p5 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p5%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p5 (traced).dxf`).
 
 ### Page 6
 
@@ -76,7 +76,7 @@ Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p5 (trac
 - **Closed boxes:** 1
 - **Words (OCR):** 91 in 35 lines: WARO·SECK SYSTEMS LTO · CIRCU IT DESCRIPTION · 1_11 RE GULAT OR BOARD · Ov ....vol l.ge prQ Ie<;tlon · ro id · 'crowbar' SCR 09. Th., · lng · nel work:. con:":'ling of · 08 CR6, CR7 · R4 · 10 RSO · ill monilor
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p6 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p6%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p6 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p6 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p6%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p6 (traced).dxf`).
 
 ### Page 7
 
@@ -85,7 +85,7 @@ Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p6 (trac
 - **Outlines:** line 183 rings, 1,912 straight (4,612 mm) / 462 curved (706 mm); text 654 rings, 4,640 straight (5,292 mm) / 1,390 curved (2,108 mm)
 - **Words (OCR):** 125 in 80 lines: WARC -BECK YSTEMS LTC · PART · IST · 1_1 17 RECULAT OR BOARD · PA RT · DESCR · ION · MFG PAR NUMBER · ct · Ca acllor · 200 · As" lco
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p7 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p7%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p7 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p7 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p7%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p7 (traced).dxf`).
 
 ### Page 8
 
@@ -97,7 +97,7 @@ Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p7 (trac
 - **Words (OCR):** 114 in 77 lines: WARC-BECK SYSTEMS LTO · PARTS · IST · 111 REGULA OR BOARD · PAR · DESCR IPT ON · MF PART NUMBE · Re si tor · 4W · Phili ps · OK · OK
 - **Title block:** (11, 399)–(117, 422) mm: WARC-BECK SYSTEMS LTO
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p8 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p8%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p8 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p8 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p8%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p8 (traced).dxf`).
 
 ### Page 9
 
@@ -107,7 +107,7 @@ Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p8 (trac
 - **Words (OCR):** 86 in 52 lines: WARD-BECK SYSTEMS · LTO · ARTS · IS · 1_111 REGULATOR BOARD · PART · DESCR IPTION · MFG PAR · NUMB ER · Res ls lO<" · 51 · dele le
 - **Title block:** (12, 71)–(117, 419) mm: WARD-BECK SYSTEMS · PART · DESCR IPTION · Res ls lO<" · 51 · RJ8 · Tr im po · ROO · R"51510<" · 51 · AU · RU · RU · R50 · ln legrele<! Circu lI · Z2 · WBS e<:ommen dll lh" · manu clur..r for COt1 ll n
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p9 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p9%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p9 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p9 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p9%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p9 (traced).dxf`).
 
 ### Page 10
 
@@ -119,7 +119,7 @@ Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p9 (trac
 - **Words (OCR):** 51 in 40 lines: 0V · +25V · .--------r----.----,----------i · CROWBAR · SCR · F1 · DIF · OVER · ADJ · VOLTAGE · DETECTOR · COM
 - **Title block:** (280, 1)–(432, 70) mm: ISS UE DATE · REVISION · ca APP. · [vvas) WARe-BECK STEMS · ps · BS · DRN.jJ · /vf,41/6"!.E)' · 1-1f<." IjrJo · M485B · ENG, · ±25V POWER SUPPLY · CKD · If,\ · tp · FUNCTIONAL DIAGRAM · ht · APP, · SC
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p10 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p10%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p10 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p10 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p10%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p10 (traced).dxf`).
 
 ### Page 11
 
@@ -132,7 +132,7 @@ Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p10 (tra
 - **Words (OCR):** 115 in 96 lines: IN · T5 · R3 · TB1 · +2'::>V · Tl · .47.a. · 120 · IO · 80- · 20 · GW
 - **Title block:** (287, 0)–(432, 67) mm: ca APP. · ISSUE DATE · REVISION · \NBS] WARe-BECK SYSTEMS · BS · DRN·- pAfAJoNcY · M48 5B · ENG. · MRN I/Bo · 25V POWER SUPPLY · tp · CK · ,77 · APP. · ht · SCHEMATIC · SCALE · ISSUE · 485 -02 -00
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p11 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p11%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p11 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p11 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p11%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p11 (traced).dxf`).
 
 ### Page 12
 
@@ -144,7 +144,7 @@ Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p11 (tra
 - **Words (OCR):** 100 in 68 lines: Q4 · 'l80 · Q.4 · R2 50 · RZO ru · ili · RI1 ..!Llc.. · R25 · +l-O<Z-li\; · C.Q · R22. · S\O
 - **Title block:** (325, 0)–(432, 51) mm: BS OQAW · 117' · QE · 'SSUE · DATE · REVtSK)N · (VVE3S] WARe-BECK SYBTI!M8 · ORN. I'W In, · tp · ENG. MRW ht RE GULA TOR BOARD · 1-11 · eKO. · APP. · COM PO EN LAYOUT · SCALE · BI 1-117- 06 00 · ISSUE
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p12 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p12%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p12 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p12 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p12%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p12 (traced).dxf`).
 
 ### Page 13
 
@@ -157,7 +157,7 @@ Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p12 (tra
 - **Words (OCR):** 165 in 123 lines: OT · ALL · ESISTO · ARE. IN '/4W · AND AL c.t>.Pt-.<JTO RS 1N · NLE · SP E.C\ FIE.D · LAST COMP ONE.NT DE.S I6NP-.TIO · ER ISE · 11 · 15 · 14
 - **Title block:** (355, 8)–(432, 35) mm: ro/7B R.EDf<A.<IlJ · ~CQ CIRC.U IT AD · ISSUE DATE · REVISION · ca APP. · [\NBS] WARD-BECK TEM · ps · BS · DR MRW 6178 · 117 · ENG. MRW · REGULATOR BOARD · CKD. IItvL · ALL ES ISTORS · ht · tp ARE. IN
 
-Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p13 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p13%20(traced).json) (the CAD file: `1978 - M485B - 25V power Supply p13 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 25V power Supply p13 (traced).json](../MANUALS/1978%20-%20M485B%20-%2025V%20power%20Supply%20p13%20%28traced%29.json) (the CAD file: `1978 - M485B - 25V power Supply p13 (traced).dxf`).
 
 ## Full text
 

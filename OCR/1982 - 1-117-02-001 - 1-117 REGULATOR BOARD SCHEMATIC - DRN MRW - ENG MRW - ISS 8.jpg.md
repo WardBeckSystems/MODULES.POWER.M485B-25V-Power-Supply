@@ -36,7 +36,7 @@ Wiki page: [M485B](../../../../PAGES/M485B.md)
 - **Title block:** (358, 19)–(432, 34) mm: ISSUL DATE · WBS WARD-BECK systems
 - **Wiring (first pass):** 52 connected wire groups from 518 runs; labelled ends: 429 mm → 27/63, RZ5, C33, 100/40; 416 mm → Co<, 27/63; 100 mm → Iok; 90 mm → Co<, 14305; 83 mm → VADJ
 
-Every curve, box, word and wire group: [1982 - 1-117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW - ISS 8 (traced).json](../SCHEMATICS/1982%20-%201-117-02-001%20-%201-117%20REGULATOR%20BOARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%208%20(traced).json) (the CAD file: `1982 - 1-117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW - ISS 8 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 1-117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW - ISS 8 (traced).json](../SCHEMATICS/1982%20-%201-117-02-001%20-%201-117%20REGULATOR%20BOARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%208%20%28traced%29.json) (the CAD file: `1982 - 1-117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW - ISS 8 (traced).dxf`).
 
 ## Full text
 

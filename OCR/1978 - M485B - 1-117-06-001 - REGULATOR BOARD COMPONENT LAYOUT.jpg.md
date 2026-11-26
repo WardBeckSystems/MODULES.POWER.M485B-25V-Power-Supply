@@ -25,7 +25,7 @@ Wiki page: [M485B](../../../../PAGES/M485B.md)
 - **Words (OCR):** 81 in 77 lines: MJE 2301 · MUE2901 · Ri4 · ADJ · Ri8 CIF ADJ · 500 · 5k · R23-e* · Ra 92 · Rzo 24] · Cio · R4
 - **Title block:** (161, 0)–(432, 156) mm: 230 9u* · WBS · Re5 · R32ok · CANADA · R34 · RS: · 1-117 · 258 · Rzo · P3s · zok · 50 · Ok · DIF @ · RE-DRAWN · ISSUE · DATE · REVISION · WBS WARD-BECk SYBTEMB · DRN Mrw 6/78 · -117 · ENG Mrw · REGULA
 
-Every curve, box, word and wire group: [1978 - M485B - 1-117-06-001 - REGULATOR BOARD COMPONENT LAYOUT (traced).json](../SCHEMATICS/1978%20-%20M485B%20-%201-117-06-001%20-%20REGULATOR%20BOARD%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1978 - M485B - 1-117-06-001 - REGULATOR BOARD COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - 1-117-06-001 - REGULATOR BOARD COMPONENT LAYOUT (traced).json](../SCHEMATICS/1978%20-%20M485B%20-%201-117-06-001%20-%20REGULATOR%20BOARD%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1978 - M485B - 1-117-06-001 - REGULATOR BOARD COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

@@ -26,7 +26,7 @@ Wiki page: [M485B](../../../../PAGES/M485B.md)
 - **Words (OCR):** 51 in 31 lines: WAAD-BECK SySTems LTD_ · TABLE OF CONTENTS · M485p · 25 POWER SUPPLY · SECTION · PAGE · Technical Data · I-1 · circuit Description · 2-1 · Parts List · 3-1
 - **Title block:** (13, 35)–(279, 420) mm: WAAD-BECK SySTems LTD_ · TABLE OF CONTENTS · M485p · 25 POWER SUPPLY · SECTION · PAGE · Technical Data · I-1 · circuit Description · 2-1 · Parts List · 3-1 · Appendix · 1-117 Circuit Description · 1-1
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p1 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p1%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p1 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p1%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p1 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 133 in 72 lines: WAAD-BECK SYSTEMB · LTD_ · TECHNICAL DATA · M485b · 25 POWER SUPPLY · DC Output: · 25 volts Jt · load currents · frorn · amperes. · Regulation: · 0.1% for Tine
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p2 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p2%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p2 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p2 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p2%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p2 (traced).dxf`).
 
 ### Page 3
 
@@ -45,7 +45,7 @@ Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p2 (trac
 - **Outlines:** line 20 rings, 705 straight (2,855 mm) / 87 curved (135 mm); text 913 rings, 6,294 straight (6,949 mm) / 1,900 curved (2,821 mm)
 - **Words (OCR):** 123 in 53 lines: WARD-BECK systems LTD; · CIRcuIT DESCRIPTION · M485p · 25 POWERSUPPLY · The M485B is · 25 vol · dc power · supply which is · capable of · del ( · vering currents up · of
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p3 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p3%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p3 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p3 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p3%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p3 (traced).dxf`).
 
 ### Page 4
 
@@ -55,7 +55,7 @@ Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p3 (trac
 - **Words (OCR):** 62 in 51 lines: WAAD-BeCk Systems LTD · PARTS · List · M4858 · '25 POWER · SUPPLY · PART · DESCRIPTION · MFG · MFG PART · NUMBER · C1
 - **Title block:** (11, 162)–(232, 421) mm: WAAD-BeCk Systems LTD · PARTS · List · M4858 · '25 POWER · SUPPLY · PART · DESCRIPTION · MFG · MFG PART · C1 · Capacitor · 4100 · uF/75 · Callins · C2 · CRI · CR2) · Bridge Rectifier · EDI · P86O · CR
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p4 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p4%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p4 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p4 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p4%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p4 (traced).dxf`).
 
 ### Page 5
 
@@ -66,7 +66,7 @@ Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p4 (trac
 - **Words (OCR):** 357 in 126 lines: WAAD-BECK · CIRcUIT DESCRIPTION · 1-117 REGULATOR BOARD · The 1-117 · Regulator is · printed circuit board unit. It · is used in · number · of WBS · Power · Supplies and contains the · majority of the active
 - **Title block:** (14, 310)–(91, 422) mm: WAAD-BECK · The 1-117 · number · of WBS · circuitry of these units.
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p5 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p5%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p5 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p5 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p5%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p5 (traced).dxf`).
 
 ### Page 6
 
@@ -75,7 +75,7 @@ Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p5 (trac
 - **Outlines:** line 16 rings, 528 straight (2,802 mm) / 67 curved (108 mm); text 538 rings, 3,796 straight (4,204 mm) / 1,136 curved (1,700 mm)
 - **Words (OCR):** 75 in 30 lines: WAAD-BECK Systems LTD · CIRcuIT DESCRIPTION · 1-l17 REGULATOR BQARQ · Overvoltage protection is · provided by "crowbar SCR 09 · The sensing · networks · consisting of 07 · 08 , CR6, CR? and R45 R5O wili monitor · 10 · both Ine positive as · weli as
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p6 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p6%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p6 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p6 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p6%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p6 (traced).dxf`).
 
 ### Page 7
 
@@ -85,7 +85,7 @@ Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p6 (trac
 - **Words (OCR):** 103 in 89 lines: WAAD-BECK SYSTEms LTD_ · PARTS List · 1-117 · REGULATOR_BQARD · PART DESCRIPT ION · MFG · MFG PART NUMBER · C1 · Capacitor · 2200 pF · Aselco · c092-MC-222m
 - **Title block:** (11, 397)–(118, 420) mm: WAAD-BECK SYSTEms LTD_
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p7 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p7%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p7 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p7 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p7%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p7 (traced).dxf`).
 
 ### Page 8
 
@@ -94,7 +94,7 @@ Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p7 (trac
 - **Outlines:** line 100 rings, 1,078 straight (3,517 mm) / 202 curved (305 mm); text 825 rings, 6,076 straight (6,858 mm) / 1,896 curved (2,876 mm)
 - **Words (OCR):** 149 in 129 lines: WAAD-BECK systems LTD; · PARTS · LiST · 4-47 REGULATOR · BOARD · PART · DESCRIPTION · MFG · MFG PART · NUMBER · RI · Resistor
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p8 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p8%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p8 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p8 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p8%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p8 (traced).dxf`).
 
 ### Page 9
 
@@ -104,7 +104,7 @@ Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p8 (trac
 - **Words (OCR):** 76 in 58 lines: WAAD-BECK Bybtems · LTD · PARTS List · 1-117 REGULATOR · BOARD · PART DESCRIPTION · MFG · MFG PART · NUMBER · R36 · Resistor 1/4w · delete
 - **Title block:** (12, 72)–(76, 421) mm: WAAD-BECK Bybtems · PART DESCRIPTION · R36 · R37 · R3B · R39 · Trim pot · R4o · R41 · R42 · R43 · R44 · R45 · R46 · R4? · R48 · R49 · R5o · 21 · 72 · WBS recommends the use
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p9 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p9%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p9 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p9 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p9%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p9 (traced).dxf`).
 
 ### Page 10
 
@@ -116,7 +116,7 @@ Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p9 (trac
 - **Words (OCR):** 37 in 32 lines: +25V · CROWBAR · SCR · OVER · DIF · 110/220 VAC · ADJ · VOLTAGE · 50 / 60 Hz · DETECTOR · VOLTAGE · LOSS
 - **Title block:** (280, 1)–(432, 72) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN.PMAHONE · M485B · ENG · +25v POWER SUPPLY · CKD · FUNCTIONAi DIAGRAM · APP · SCALE · ISSUE · 485-01-00 1
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p10 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p10%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p10 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p10 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p10%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p10 (traced).dxf`).
 
 ### Page 11
 
@@ -130,7 +130,7 @@ Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p10 (tra
 - **Title block:** (286, 1)–(432, 69) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN Malongy · ENG. MRW I/80 · M485B · +25V POWER SUPPLY · CKD Rulle · SCHEMATIC · APP · SCALE · ISSUE · 485-02-003
 - **Wiring (first pass):** 49 connected wire groups from 261 runs; labelled ends: 758 mm → PRIMARY, VOLTAGE, CONNECT, POWERTO; 298 mm → TB1, CHASSIS; 161 mm → TB2, +25v, 7,8, 25v; 160 mm → TB2, 25v, 7,8; 136 mm → 4ooxF, 75v, 4loonF
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p11 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p11%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p11 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p11 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p11%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p11 (traced).dxf`).
 
 ### Page 12
 
@@ -142,7 +142,7 @@ Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p11 (tra
 - **Words (OCR):** 84 in 78 lines: MJE 2311 · MJEZe · Rig ADJ · rie DIFADJ · So0 · 5k · Rig44 · Rzo ?41 · Cio · R4 · Rlb · 4ok
 - **Title block:** (161, 0)–(432, 156) mm: 230 3uk · WBS · CANADA · R34 · Pz7 · RS: · Rz9 · 1-117 · Rza · P9s · 2Ok · 2ok · 3o · DIF @ · ell · 132 · LE · Ione · Drawn · ISSUE DATE · REvISIOM · WBS WARD-BECK syBteMB · DRN Hrw 6/78 · 1 -117 · EN
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p12 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p12%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p12 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p12 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p12%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p12 (traced).dxf`).
 
 ### Page 13
 
@@ -154,7 +154,7 @@ Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p12 (tra
 - **Words (OCR):** 35 in 30 lines: Notes · CESSTORS · #Z5v · LAST CO4POHENT · Otherwise · 612 28 09,Red · 2901 · Icoi · 744037 · CFADSSk · RZ5 · OC/4-
 - **Title block:** (358, 0)–(432, 34) mm: ISSUEIVATC · WBS WARD-BECk SYSTEMS · 1-117 · REGULATOR BOA RD · CHEMATIC · ScALE · 1 -117 · 001 · ISSUE
 
-Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p13 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p13%20(traced).json) (the CAD file: `1982 - M485B - 25V power Supply p13 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M485B - 25V power Supply p13 (traced).json](../MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply%20p13%20%28traced%29.json) (the CAD file: `1982 - M485B - 25V power Supply p13 (traced).dxf`).
 
 ## Full text
 

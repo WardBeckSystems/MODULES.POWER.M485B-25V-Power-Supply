@@ -21,7 +21,7 @@ Wiki page: [M485B](../../../../PAGES/M485B.md)
 - **Closed boxes:** 20
 - **Wiring (first pass):** 140 connected wire groups from 451 runs
 
-Every curve, box, word and wire group: [1978 - M485B - B 485-01-001 - M485B - +-25V POWER SUPPLY - FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1978%20-%20M485B%20-%20B%20485-01-001%20-%20M485B%20-%20%2B-25V%20POWER%20SUPPLY%20-%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1978 - M485B - B 485-01-001 - M485B - +-25V POWER SUPPLY - FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M485B - B 485-01-001 - M485B - +-25V POWER SUPPLY - FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1978%20-%20M485B%20-%20B%20485-01-001%20-%20M485B%20-%20%2B-25V%20POWER%20SUPPLY%20-%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1978 - M485B - B 485-01-001 - M485B - +-25V POWER SUPPLY - FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 

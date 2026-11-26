@@ -36,7 +36,7 @@ Wiki page: [M485B](../../../../PAGES/M485B.md)
 - **Title block:** (278, 11)–(432, 78) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRNRMAHodsy · M485B · ENG. MPW I80 · +25V POWER SUPPLY · CKD · SCHEMATIC · APP · SCALE · 485-02-003 · ISSUE
 - **Wiring (first pass):** 46 connected wire groups from 272 runs; labelled ends: 446 mm → CONNECT, POWERTo, PRIMARY, VOLTAGE; 292 mm → CHASsIS; 290 mm → TB2, +25v; 254 mm → PRIMARY, CONNECT, POWERTo, 240v; 180 mm → AoonF, 75v, c2
 
-Every curve, box, word and wire group: [1980 - 485-02-003 - ±25V POWER SUPPLY SCHEMATIC - DRN P. Mahoney - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1980%20-%20485-02-003%20-%20%C2%B125V%20POWER%20SUPPLY%20SCHEMATIC%20-%20DRN%20P.%20Mahoney%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1980 - 485-02-003 - ±25V POWER SUPPLY SCHEMATIC - DRN P. Mahoney - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1980 - 485-02-003 - ±25V POWER SUPPLY SCHEMATIC - DRN P. Mahoney - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1980%20-%20485-02-003%20-%20%C2%B125V%20POWER%20SUPPLY%20SCHEMATIC%20-%20DRN%20P.%20Mahoney%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1980 - 485-02-003 - ±25V POWER SUPPLY SCHEMATIC - DRN P. Mahoney - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 
