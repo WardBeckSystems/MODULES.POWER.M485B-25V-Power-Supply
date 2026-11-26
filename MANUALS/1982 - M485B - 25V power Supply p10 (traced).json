@@ -1,0 +1,111 @@
+{
+ "drawing": "Modules/POWER/M485B/MANUALS/1982 - M485B - 25V power Supply.pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/6bf1d9694be4d68d-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "Dif Adj Over Voltage Detector",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1317],
+  "mm": [431.8, 284.3],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.0, 0.0, 431.8, 261.9],
+ "outlines": {
+  "line": {"rings": 181, "straight": {"n": 3661, "mm": 9189.3}, "curved": {"n": 416, "mm": 724.2}},
+  "text": {"rings": 287, "straight": {"n": 1901, "mm": 2292.1}, "curved": {"n": 603, "mm": 883.5}},
+  "tb": {"rings": 14, "straight": {"n": 145, "mm": 318.7}, "curved": {"n": 22, "mm": 35.6}}
+ },
+ "circles": [
+  {"c": [301.7, 96.2], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [301.6, 172.2], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [301.5, 246.9], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [30.6, 193.1], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [30.8, 176.5], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [222.8, 180.5, 252.8, 196.7], "w": 30.0, "h": 16.2, "from": "ring", "words": ["OVER", "VOLTAGE", "DETECTOR"]},
+  {"mm": [175.5, 149.6, 205.3, 166.5], "w": 29.8, "h": 16.8, "from": "ring", "words": ["VOLTAGE", "LOSS", "DETECTOR"]},
+  {"mm": [322.1, 60.5, 335.7, 66.7], "w": 13.6, "h": 6.3, "from": "ring", "words": ["ISSUE |DATE"], "in_title_block": true},
+  {"mm": [336.4, 60.2, 349.8, 66.7], "w": 13.4, "h": 6.5, "from": "ring", "in_title_block": true},
+  {"mm": [350.4, 60.0, 419.5, 66.7], "w": 69.1, "h": 6.7, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [287.6, 26.8, 321.7, 33.2], "w": 34.1, "h": 6.5, "from": "ring", "words": ["ENG"], "in_title_block": true},
+  {"mm": [287.6, 19.9, 321.7, 26.3], "w": 34.1, "h": 6.5, "from": "ring", "words": ["CKD"], "in_title_block": true},
+  {"mm": [287.6, 12.7, 321.7, 19.4], "w": 34.1, "h": 6.7, "from": "ring", "words": ["APP"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 37,
+  "lines": [
+   {"mm": [304.6, 244.6, 317.2, 248.9], "text": "+25V"},
+   {"mm": [242.7, 207.5, 264.7, 213.0], "text": "CROWBAR"},
+   {"mm": [248.5, 203.6, 258.2, 208.4], "text": "SCR"},
+   {"mm": [232.1, 190.4, 244.2, 195.9], "text": "OVER"},
+   {"mm": [174.0, 189.6, 181.6, 193.4], "text": "DIF"},
+   {"mm": [4.3, 183.9, 29.1, 190.4], "text": "110/220 VAC"},
+   {"mm": [172.9, 184.8, 182.7, 189.6], "text": "ADJ"},
+   {"mm": [228.6, 186.3, 248.1, 191.1], "text": "VOLTAGE"},
+   {"mm": [8.4, 179.8, 25.7, 184.2], "text": "50 / 60 Hz"},
+   {"mm": [226.9, 181.6, 250.7, 187.1], "text": "DETECTOR"},
+   {"mm": [181.1, 160.4, 199.9, 165.2], "text": "VOLTAGE"},
+   {"mm": [184.8, 156.1, 196.7, 160.9], "text": "LOSS"},
+   {"mm": [179.4, 151.3, 202.1, 156.1], "text": "DETECTOR"},
+   {"mm": [167.1, 130.8, 176.2, 136.1], "text": "ADJ"},
+   {"mm": [190.2, 123.3, 211.8, 127.6], "text": "PCB 1- 117"},
+   {"mm": [177.3, 117.4, 223.7, 123.0], "text": "VOLTAGE REGULATOR"},
+   {"mm": [113.1, 96.3, 121.1, 100.6], "text": "40 V"},
+   {"mm": [307.4, 94.1, 316.1, 98.0], "text": "25V"},
+   {"mm": [322.6, 60.7, 348.9, 65.9], "text": "ISSUE |DATE"},
+   {"mm": [375.5, 61.3, 395.3, 65.6], "text": "REVISION"},
+   {"mm": [421.9, 60.7, 430.9, 65.5], "text": "APP"},
+   {"mm": [297.5, 45.3, 428.6, 54.0], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [288.4, 34.3, 319.3, 39.8], "text": "DRN.PMAHONE"},
+   {"mm": [367.0, 30.7, 388.2, 37.1], "text": "M485B"},
+   {"mm": [288.4, 27.9, 297.7, 32.2], "text": "ENG"},
+   {"mm": [346.5, 22.7, 409.1, 29.6], "text": "+25v POWER SUPPLY"},
+   {"mm": [288.4, 20.7, 298.8, 25.5], "text": "CKD"},
+   {"mm": [344.6, 14.5, 410.2, 20.9], "text": "FUNCTIONAi DIAGRAM"},
+   {"mm": [289.1, 13.2, 298.2, 18.0], "text": "APP"},
+   {"mm": [297.1, 7.3, 311.8, 12.1], "text": "SCALE"},
+   {"mm": [412.6, 6.7, 426.2, 11.5], "text": "ISSUE"},
+   {"mm": [352.8, 2.4, 390.6, 7.9], "text": "485-01-00 1"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [279.8, 1.1, 431.8, 71.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE |DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK SYSTEMS",
+   "DRN.PMAHONE",
+   "M485B",
+   "ENG",
+   "+25v POWER SUPPLY",
+   "CKD",
+   "FUNCTIONAi DIAGRAM",
+   "APP",
+   "SCALE",
+   "ISSUE",
+   "485-01-00 1"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 432 × 284 mm, 2000 × 1317 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–432 mm across, 0–262 mm up",
+  "- **Outlines:** line 181 rings, 3,661 straight (9,189 mm) / 416 curved (724 mm); text 287 rings, 1,901 straight (2,292 mm) / 603 curved (884 mm); tb 14 rings, 145 straight (319 mm) / 22 curved (35.6 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 1.9 @ (301.7, 96.2), r 1.9 @ (301.6, 172.2), r 1.9 @ (301.5, 246.9), r 1.8 @ (30.6, 193.1)",
+  "- **Closed boxes:** 8 (6 in the title block); named: OVER VOLTAGE DETECTOR; VOLTAGE LOSS DETECTOR",
+  "- **Words (OCR):** 37 in 32 lines: +25V · CROWBAR · SCR · OVER · DIF · 110/220 VAC · ADJ · VOLTAGE · 50 / 60 Hz · DETECTOR · VOLTAGE · LOSS",
+  "- **Title block:** (280, 1)–(432, 72) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN.PMAHONE · M485B · ENG · +25v POWER SUPPLY · CKD · FUNCTIONAi DIAGRAM · APP · SCALE · ISSUE · 485-01-00 1"
+ ]
+}

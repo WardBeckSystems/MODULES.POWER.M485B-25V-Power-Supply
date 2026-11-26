@@ -1,0 +1,98 @@
+{
+ "drawing": "Modules/POWER/M485B/MANUALS/1982 - M485B - 25V power Supply.pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/6bf1d9694be4d68d-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "Circuit Addedi",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 647],
+  "mm": [431.8, 139.7],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [14.5, 0.0, 431.9, 136.7],
+ "outlines": {
+  "line": {"rings": 806, "straight": {"n": 6587, "mm": 10813.4}, "curved": {"n": 1602, "mm": 1991.7}},
+  "text": {"rings": 217, "straight": {"n": 1171, "mm": 1045.8}, "curved": {"n": 369, "mm": 437.0}},
+  "tb": {"rings": 60, "straight": {"n": 348, "mm": 346.1}, "curved": {"n": 94, "mm": 108.4}}
+ },
+ "circles": [
+  {"c": [126.6, 54.4], "r": 6.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [87.6, 86.2], "r": 6.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [119.0, 52.3], "r": 1.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [131.2, 48.0], "r": 1.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [82.4, 91.7], "r": 1.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [142.7, 38.9, 146.2, 51.8], "w": 3.5, "h": 13.0, "from": "ring"},
+  {"mm": [392.7, 39.1, 426.0, 41.9], "w": 33.2, "h": 2.8, "from": "ring"},
+  {"mm": [379.1, 35.6, 385.8, 38.6], "w": 6.7, "h": 3.0, "from": "ring"},
+  {"mm": [386.0, 35.6, 392.5, 38.6], "w": 6.5, "h": 3.0, "from": "ring"},
+  {"mm": [379.1, 32.0, 385.6, 35.4], "w": 6.5, "h": 3.5, "from": "ring"},
+  {"mm": [386.0, 32.0, 392.3, 35.2], "w": 6.3, "h": 3.2, "from": "ring"},
+  {"mm": [379.1, 28.7, 385.6, 31.7], "w": 6.5, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [392.7, 28.7, 425.8, 31.7], "w": 33.0, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [362.5, 16.0, 378.9, 19.0], "w": 16.4, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [362.5, 12.5, 378.9, 15.5], "w": 16.4, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [362.5, 9.1, 378.9, 12.1], "w": 16.4, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [362.5, 5.8, 378.9, 8.9], "w": 16.4, "h": 3.0, "from": "ring", "in_title_block": true}
+ ],
+ "text": {
+  "words": 35,
+  "lines": [
+   {"mm": [381.3, 130.2, 391.0, 134.0], "text": "Notes"},
+   {"mm": [389.7, 127.8, 404.2, 130.0], "text": "CESSTORS"},
+   {"mm": [84.6, 119.8, 91.1, 122.0], "text": "#Z5v"},
+   {"mm": [384.1, 117.2, 408.1, 120.4], "text": "LAST CO4POHENT"},
+   {"mm": [396.0, 120.5, 411.5, 123.8], "text": "Otherwise"},
+   {"mm": [384.1, 113.6, 409.3, 117.4], "text": "612 28 09,Red"},
+   {"mm": [43.4, 98.5, 49.9, 101.8], "text": "2901"},
+   {"mm": [163.4, 83.6, 171.0, 85.7], "text": "Icoi"},
+   {"mm": [347.2, 84.2, 355.2, 86.4], "text": "744037"},
+   {"mm": [116.8, 81.6, 131.9, 85.4], "text": "CFADSSk"},
+   {"mm": [186.5, 61.3, 191.9, 67.3], "text": "RZ5"},
+   {"mm": [168.8, 62.0, 176.0, 64.1], "text": "OC/4-"},
+   {"mm": [295.8, 57.2, 301.8, 59.4], "text": "R3s <"},
+   {"mm": [332.1, 50.7, 340.0, 52.9], "text": "24-03t"},
+   {"mm": [107.5, 45.8, 114.6, 49.1], "text": "ADJ"},
+   {"mm": [322.8, 47.9, 330.3, 50.1], "text": "447s >"},
+   {"mm": [84.4, 43.4, 94.8, 46.8], "text": "2N3045"},
+   {"mm": [169.5, 29.1, 177.5, 31.3], "text": "241+057"},
+   {"mm": [379.6, 29.1, 391.9, 31.3], "text": "ISSUEIVATC"},
+   {"mm": [170.8, 20.3, 176.8, 25.6], "text": "83"},
+   {"mm": [366.8, 21.4, 430.5, 25.7], "text": "WBS WARD-BECk SYSTEMS"},
+   {"mm": [400.7, 13.8, 410.0, 16.9], "text": "1-117"},
+   {"mm": [390.6, 9.9, 421.9, 13.8], "text": "REGULATOR BOA RD"},
+   {"mm": [148.1, 6.3, 154.2, 9.6], "text": "ER"},
+   {"mm": [398.1, 6.7, 415.4, 10.5], "text": "CHEMATIC"},
+   {"mm": [186.1, 4.3, 193.2, 6.5], "text": "Lhit"},
+   {"mm": [366.8, 2.4, 374.4, 5.5], "text": "ScALE"},
+   {"mm": [391.0, 0.9, 400.3, 4.2], "text": "1 -117"},
+   {"mm": [408.9, 0.9, 414.7, 4.2], "text": "001"},
+   {"mm": [423.2, 3.2, 429.2, 5.4], "text": "ISSUE"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [358.1, 0.0, 431.8, 34.1],
+  "from": "title-block words (training set)",
+  "text": ["ISSUEIVATC", "WBS WARD-BECk SYSTEMS", "1-117", "REGULATOR BOA RD", "CHEMATIC", "ScALE", "1 -117", "001", "ISSUE"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 432 × 140 mm, 2000 × 647 px traced (0.216 mm/px)",
+  "- **Ink extent:** 14–432 mm across, 0–137 mm up",
+  "- **Outlines:** line 806 rings, 6,587 straight (10,813 mm) / 1,602 curved (1,992 mm); text 217 rings, 1,171 straight (1,046 mm) / 369 curved (437 mm); tb 60 rings, 348 straight (346 mm) / 94 curved (108 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 6.5 @ (126.6, 54.4), r 6.4 @ (87.6, 86.2), r 1.1 @ (119.0, 52.3), r 1.1 @ (131.2, 48.0)",
+  "- **Closed boxes:** 12 (6 in the title block)",
+  "- **Words (OCR):** 35 in 30 lines: Notes · CESSTORS · #Z5v · LAST CO4POHENT · Otherwise · 612 28 09,Red · 2901 · Icoi · 744037 · CFADSSk · RZ5 · OC/4-",
+  "- **Title block:** (358, 0)–(432, 34) mm: ISSUEIVATC · WBS WARD-BECk SYSTEMS · 1-117 · REGULATOR BOA RD · CHEMATIC · ScALE · 1 -117 · 001 · ISSUE"
+ ]
+}
