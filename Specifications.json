@@ -1,0 +1,163 @@
+{
+ "module": "M485B",
+ "title": "M485B +/-25",
+ "source": {
+  "file": "MANUALS/1982 - M485B - 25V power Supply.pdf",
+  "page": 2
+ },
+ "ocr_quality": 0.91,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Dc output",
+   "key": "dc_output",
+   "text": "1/ -25 volts at load currents frorri amperes.",
+   "quantities": [
+    {
+     "value": -25,
+     "unit": "volts"
+    }
+   ]
+  },
+  {
+   "name": "Line regulation",
+   "key": "line_regulation",
+   "text": "0.1% for Line variations from 105 Ta 125 Or from 210 to 250 volts ac respectively",
+   "quantities": [
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "from": 210,
+     "to": 250,
+     "unit": "volts ac"
+    }
+   ]
+  },
+  {
+   "name": "Load regulation",
+   "key": "load_regulation",
+   "text": "0.1% for load variations From zero [0 full load",
+   "quantities": [
+    {
+     "value": 0.1,
+     "unit": "%"
+    }
+   ]
+  },
+  {
+   "name": "Ripple and noise",
+   "key": "ripple_and_noise",
+   "text": "Less than 500 microvolts RMS for all Line and load conditions specified above."
+  },
+  {
+   "name": "Internal impedance",
+   "key": "internal_impedance",
+   "text": "Less than 0. ohm from dc Ta 20 kHz",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Stability",
+   "key": "stability",
+   "text": "0.1 volts measured over an after 30 minutes warmiup hour period,",
+   "quantities": [
+    {
+     "value": 0.1,
+     "unit": "volts"
+    }
+   ]
+  },
+  {
+   "name": "Protection",
+   "key": "protection",
+   "text": "Overcurrent and short circuit foldback. Overvoltage crowbar"
+  },
+  {
+   "name": "Ac input",
+   "key": "ac_input",
+   "text": "110/220 volts aC, nominal 50/60 Hz. Maximum input Power: 525 VA.",
+   "quantities": [
+    {
+     "value": 220,
+     "unit": "volts aC"
+    },
+    {
+     "value": 60,
+     "unit": "Hz"
+    },
+    {
+     "value": 525,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 40 degrees Celsius at rated output.",
+   "quantities": [
+    {
+     "value": 40,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "13.5\" wide 6.2\" high 4.0\" deep (340 mm 156 MM 100 mm)",
+   "quantities": [
+    {
+     "value": 13.5,
+     "unit": "\""
+    },
+    {
+     "value": 6.2,
+     "unit": "\""
+    },
+    {
+     "value": 4,
+     "unit": "\""
+    },
+    {
+     "value": 340,
+     "unit": "mm"
+    },
+    {
+     "value": 156,
+     "unit": "MM"
+    },
+    {
+     "value": 100,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "12 Lbs (5.5 kg)",
+   "quantities": [
+    {
+     "value": 12,
+     "unit": "Lbs"
+    },
+    {
+     "value": 5.5,
+     "unit": "kg"
+    }
+   ]
+  },
+  {
+   "name": "Accessories",
+   "key": "accessories",
+   "text": "Power cord, AC Fuse and switch."
+  }
+ ]
+}

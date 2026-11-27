@@ -13,6 +13,43 @@ Ward-Beck Systems M485B, 1978|11. Wiki page: [M485B on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 34 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [3 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1982 - M485B - 25V power Supply.pdf](MANUALS/1982%20-%20M485B%20-%2025V%20power%20Supply.pdf) page 2 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Dc output** | 1/ -25 volts at load currents frorri amperes. |
+| **Line regulation** | 0.1% for Line variations from 105 Ta 125 Or from 210 to 250 volts ac respectively |
+| **Load regulation** | 0.1% for load variations From zero [0 full load |
+| **Ripple and noise** | Less than 500 microvolts RMS for all Line and load conditions specified above. |
+| **Internal impedance** | Less than 0. ohm from dc Ta 20 kHz |
+| **Stability** | 0.1 volts measured over an after 30 minutes warmiup hour period, |
+| **Protection** | Overcurrent and short circuit foldback. Overvoltage crowbar |
+| **Ac input** | 110/220 volts aC, nominal 50/60 Hz. Maximum input Power: 525 VA. |
+| **Ambient temperature** | to 40 degrees Celsius at rated output. |
+| **Dimensions** | 13.5&quot; wide 6.2&quot; high 4.0&quot; deep (340 mm 156 MM 100 mm) |
+| **Weight** | 12 Lbs (5.5 kg) |
+| **Accessories** | Power cord, AC Fuse and switch. |
+
+## Circuit description
+
+From [1978 - M485B - P05 - 1-117-1-1.jpg](MANUALS/1978%20-%20M485B%20-%20P05%20-%201-117-1-1.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**1-417 REGULATOR BOARD**
+
+The 1-117 Regulator printed circuit board unit. number WBS Power Supplies and contains the majority circuitry these units. used the 4ctive The +25 regulator consists 21 and booster transistor 01 _ contains internal current limiting and foldback circuits The voltage drop developed across the current sensing resistor R3 on the main chassis fed pin via the voltage divider RZ/R8 _ When the supply current reaches approximately 2.5 amperes: foldback current limiting sets in With the supply output shorted, the current limited approximately 0.75 amperes Feedback sensing the +25 brought back from the main frame via PCB connector pin and coupled pin 21 via the voltage divider consisting R17, R18 and R1S The output 21 controls the basc current Q1 turn, drives the positive series regulator On the main Frame byway edge connector pin The 25 regulator consists 22 and transistors 04 through 06 _ The negative side R15 connected 22 pin By varying R14 the negative output voltage controlled _ Simultaneously via 22, pin and the voltage divider R17, RIB and R1S, the positive output voltage will respond proportionally the operation R14. Thus both positive and negative voltages wili track. R18 serves as differential control. Adjusting Ri8 will increase one voltage while decreasing the other Booster transistors and 05 are operated from the output of 22 (pin and [urn drive the negative series regulator 02 the main frame via pin the edge connector Transistor 06 operated by the voltage developed across the current sensing resistor R4 the min Frame) As the current discs predetermined va Tue 06 will conduct and reduce the drive current from 22, pin 02 will sense the loss either output voltage Norma Iy, 02 saturaled_ resulting 03 being switched off. the event failure either supply voltage, wil become nonconductive and 03 wil saturate, thereby removing the reference currents from and 22 causing buth regulators shut down 1-117-1-1
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
