@@ -4,13 +4,12 @@ Ward-Beck Systems M485B, 1978|11. Wiki page: [M485B on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 57 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 93 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 15 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 56 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 92 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 14 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 31 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -54,8 +53,6 @@ The 1-117 Regulator printed circuit board unit. number WBS Power Supplies and co
 
 _Photographs of the module itself: front, back, inside, racked._
 
-Not on Google Drive yet: `2021 - M485B - 1-117 regulator board - photo 1.jpg`, `2021 - M485B - 1-117 regulator board - photo 2.jpg`
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
@@ -83,13 +80,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSW9DVDFJUjhHNDA/view?resourcekey=0-LsRL7zmoNnMRkR9JkF5V2A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSW9DVDFJUjhHNDA&resourcekey=0-LsRL7zmoNnMRkR9JkF5V2A" width="240" alt="19xx - M485B - DOC - 1202-02-017 - POSTS CHASSIS GROUND.jpg"></a><br><sub>19xx - M485B - DOC - 1202-02-017 - POSTS CHASSIS GROUND · <a href="SCHEMATICS/19xx%20-%20M485B%20-%20DOC%20-%201202-02-017%20-%20POSTS%20CHASSIS%20GROUND%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1kbyxg7mttqNcz9LD2_GUCDyKuECc15aG/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1kbyxg7mttqNcz9LD2_GUCDyKuECc15aG" width="240" alt="19xx - M485B - DOC - 485-02-003 - POWER SUPPLY SCHEMATIC.jpg"></a><br><sub>19xx - M485B - DOC - 485-02-003 - POWER SUPPLY SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M485B%20-%20DOC%20-%20485-02-003%20-%20POWER%20SUPPLY%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1980 - 485-01-001 - +-25V POWER SUPPLY FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG MRW - ISS 1 (2).jpg`, `1980 - 485-02-003 - +-25V POWER SUPPLY SCHEMATIC - DRN P. MAHONEY - ENG MRW - ISS 1 (2).jpg`, `1980 - 485-02-003 - ±25V POWER SUPPLY SCHEMATIC - DRN P. Mahoney - ENG MRW - ISS 1.jpg`, `1982 - 1-117-02-001 - 1-117 REGULATOR BOARD SCHEMATIC - DRN MRW - ENG MRW - ISS 8.jpg`, `M485B - P10 - Functional Diagram.jpg`, `M485B - P11 - Schematic.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M485B - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -130,7 +123,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [M485B - P10 - Functional Diagram.kicad_sch](KICAD/M485B%20-%20P10%20-%20Functional%20Diagram.kicad_sch)
 - [M485B - P11 - Schematic.kicad_sch](KICAD/M485B%20-%20P11%20-%20Schematic.kicad_sch)
 - [M485B.kicad_sym](KICAD/M485B.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
