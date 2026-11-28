@@ -1,5 +1,5 @@
 # 1980 - 485-01-001 - +-25V POWER SUPPLY FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG MRW - ISS 1 (2).jpg
-Wiki page: [M485B](../../../../PAGES/M485B.md)
+Wiki page: [M485B](../)
 
 
 - **Year:** 1980 (title block date)

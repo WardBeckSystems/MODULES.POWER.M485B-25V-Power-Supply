@@ -1,5 +1,5 @@
 # M485B - P10 - Functional Diagram.jpg
-Wiki page: [M485B](../../../../PAGES/M485B.md)
+Wiki page: [M485B](../)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -1,5 +1,5 @@
 # 1980 - 485-02-003 - +-25V POWER SUPPLY SCHEMATIC - DRN P. MAHONEY - ENG MRW - ISS 1 (2).jpg
-Wiki page: [M485B](../../../../PAGES/M485B.md)
+Wiki page: [M485B](../)
 
 
 - **Year:** 1980 (title block date)

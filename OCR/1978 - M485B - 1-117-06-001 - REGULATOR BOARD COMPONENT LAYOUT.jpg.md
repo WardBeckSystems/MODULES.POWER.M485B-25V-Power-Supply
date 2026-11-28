@@ -1,5 +1,5 @@
 # 1978 - M485B - 1-117-06-001 - REGULATOR BOARD COMPONENT LAYOUT.jpg
-Wiki page: [M485B](../../../../PAGES/M485B.md)
+Wiki page: [M485B](../)
 
 
 - **Year:** 1978 (found in this file: "REVISION 6/78")

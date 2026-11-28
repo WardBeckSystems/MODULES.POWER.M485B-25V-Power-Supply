@@ -1,5 +1,5 @@
 # 1978 - M485B - 485-02-003 - POWER SUPPLY SCHEMATIC.jpg
-Wiki page: [M485B](../../../../PAGES/M485B.md)
+Wiki page: [M485B](../)
 
 
 - **Year:** 1978 (module estimate (labelled))

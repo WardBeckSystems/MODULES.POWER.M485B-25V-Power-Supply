@@ -1,6 +1,6 @@
 # M485B 25V Power Supply · Power
 
-Ward-Beck Systems M485B, 1978|11. Wiki page: [M485B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M485B.html)
+Ward-Beck Systems M485B, 1978|11. Wiki page: [M485B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M485B-25V-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|

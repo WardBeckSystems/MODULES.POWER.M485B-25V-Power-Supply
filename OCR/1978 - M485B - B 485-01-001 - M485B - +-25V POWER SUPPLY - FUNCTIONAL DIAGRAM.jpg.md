@@ -1,5 +1,5 @@
 # 1978 - M485B - B 485-01-001 - M485B - +-25V POWER SUPPLY - FUNCTIONAL DIAGRAM.jpg
-Wiki page: [M485B](../../../../PAGES/M485B.md)
+Wiki page: [M485B](../)
 
 
 - **Year:** 1978 (module estimate (labelled))
